@@ -1,0 +1,26 @@
+/**
+@mainpage Interview case
+
+@section design Design explanation
+
+Describe what you did here.
+
+There is no need to repeat the description for what it should do that you have
+received again here.
+
+<!-- If you know plantUML and you have it installed (maybe adapt PLANTUML_JAR_PATH
+  in Doxyfile if it's not at `/usr/share/plantuml`) then you can use this:
+  @startuml
+  A -> B
+  @enduml
+
+  Otherwise you can include an image with this line:
+
+  ![Some image](doc/a.png)
+-->
+
+@section remarks Remarks and suggestions
+
+Any remarks, suggestions or things that you like to point out?
+
+*/
